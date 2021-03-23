@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 - :honeybee: I’m student at Ha Noi University of Science and Technology.
-- :pig_nose: I'm currently learning and working on CNN, RNN, iOS (Swift, Objc-C, C/C++), full stack developer.
+- :pig_nose: I'm currently learning and working on AI (Machine Learning, Deep Learning, CNN, RNN), iOS (Swift, Objc-C, C/C++), full stack developer.
 - :cyclone: Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
 - :umbrella: More about me: <a href="https://github.com/vudat81299" target="_blank">https://github.com/vudat81299</a>
 <br />
