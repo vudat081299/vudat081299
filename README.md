@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 - :umbrella: More about me: <a href="https://github.com/vudat81299" target="_blank">https://github.com/vudat81299</a>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html&layout=compact" alt="vudat81299" /></p> 
+<h1><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html&layout=compact" alt="vudat81299" /></h1> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vudat81299&show_icons=true" alt="vudat81299" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vudat81299&show_icons=true" alt="vudat81299" /></p>
