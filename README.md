@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 - :honeybee: I’m student at Ha Noi University of Science and Technology.
-- :pig_nose: I'm currently learning and working on :brain: AI (Machine Learning, Deep Learning, CNN, RNN on <Python, Swift>), Augmented-Reality (Swift), iOS (Swift, Objc-C, C/C++), full stack developer (Vuejs, React, :droplet:Vapor-Swift, Nodejs, Golang), Cybersecurity - Computer Security.
+- :pig_nose: I'm currently learning and working on :brain: **AI** (Machine Learning, Deep Learning, CNN, RNN on <Python, Swift>), **Augmented-Reality** (Swift), **iOS** (Swift, Objc-C, C/C++), **full-stack developer** (Vuejs, React, :droplet:Vapor-Swift, Nodejs, Golang), **Cybersecurity - Computer Security**.
 > ## :rocket: If you interested in any subject i mention above for **Research purposes**, contact me for take a look about my **over 27+ private projects and repos**.
 - :cyclone: Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
 - :umbrella: More about me: <a href="https://github.com/vudat81299" target="_blank">https://github.com/vudat81299</a>
