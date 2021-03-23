@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+- Link emoji on github: https://www.webfx.com/tools/emoji-cheat-sheet/ 
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -22,6 +24,7 @@ Here are some ideas to get you started:
 - :cyclone: Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
 - :umbrella: More about me: <a href="https://github.com/vudat81299" target="_blank">https://github.com/vudat81299</a>
 <br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html" alt="vudat81299" /></p> 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html&theme=radical" alt="vudat81299" /></p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=vudat81299&show_icons=true" alt="vudat81299" /></p>
