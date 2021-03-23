@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m student at Ha Noi University of Science and Technology.
 - 🌱 I'm currently learning and working on CNN, RNN, iOS (Swift, Objc-C, C/C++), full stack developer.
 - 📫 Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
-- 🔗 More about me: <a href="https://vudat81299.github.io/AboutMe/" target="_blank">https://vudat81299.github.io/aboutme/</a>
+- 🔗 More about me: <a href="https://github.com/vudat81299" target="_blank">https://github.com/vudat81299</a>
 <br />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html" alt="vudat81299" /></p> 
 
