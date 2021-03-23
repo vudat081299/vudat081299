@@ -20,11 +20,10 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 - :honeybee: I’m student at Ha Noi University of Science and Technology.
-- :pig_nose: I'm currently learning and working on AI (Machine Learning, Deep Learning, CNN, RNN), iOS (Swift, Objc-C, C/C++), full stack developer.
+- :pig_nose: I'm currently learning and working on AI (Machine Learning, Deep Learning, CNN, RNN on <Python, Swift>), Augmented-Reality (Swift), iOS (Swift, Objc-C, C/C++), full stack developer (Vuejs, React, Vapor-Swift, Nodejs, Golang).
 - :cyclone: Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
 - :umbrella: More about me: <a href="https://github.com/vudat81299" target="_blank">https://github.com/vudat81299</a>
-<br />
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html&layout=compact" alt="vudat81299" /></p> 
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vudat81299&show_icons=true" alt="vudat81299" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat81299&layout=compact&hide=html&layout=compact" alt="vudat81299"/></p> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=vudat81299&show_icons=true" alt="vudat81299"/></p>
