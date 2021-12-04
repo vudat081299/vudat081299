@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<span style="color: #991111">M</span>
+- ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
 ![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
 
 - :honeybee: I’m student at Ha Noi University of Science and Technology.
