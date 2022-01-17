@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 <br/>
 
 <h3 align="left">
-  <img align="left" width="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
-  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
+  <img align="left" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
+  <img align="" width="450px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </h3>
 
 ### My certificate
