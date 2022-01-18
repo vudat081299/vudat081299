@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img align="left" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
   <img width="" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </div>
-<div align="left" style="display:block;">
+<div align="left" style="">
   <!-- ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
-  <img width="100%" margin-top="10px" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
+  <img width="50%" margin-top="10px" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
 </div>
