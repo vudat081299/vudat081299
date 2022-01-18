@@ -24,14 +24,14 @@ Here are some ideas to get you started:
 > ## :rocket: If you interested in any subject i mention above for **Research purposes** especially Deep Learning (CNN - RNN), contact me to approach my **over 27+ private projects and repos**.
 - :cyclone: Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
 - :umbrella: More about me: <a href="https://github.com/vudat081299" target="_blank">https://github.com/vudat081299</a>
-<br/>
 
 <h1 height="200px" style="display: block;">
   <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
   <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </h1>
-<br/>
-  ### My certificate
+<div style="display:block;">
+  <h2>My certificate</h2>
   Certificate source: https://www.sololearn.com/Certificate/1023-24649952/jpg
   <!-- ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
   <img width="450px" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
+</div>
