@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 > SL: https://www.sololearn.com/Certificate/1023-24649952/jpg
 
 <h1 height="200px" style="display: block;">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
-  <img align="right" height="200px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
+  <img align="left" width="30% height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
+  <img width="70" height="200px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </h1>
 <div style="display:block;">
   <!-- ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
