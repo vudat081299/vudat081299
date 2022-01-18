@@ -31,9 +31,7 @@ Here are some ideas to get you started:
   <img align="" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </h1>
 
-<p align="left">
   ### My certificate
   Certificate source: https://www.sololearn.com/Certificate/1023-24649952/jpg
   <!-- ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
   <img width="450px" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
-</p>
