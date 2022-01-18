@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 </div>
 <div align="left" style="display:block;">
   <!-- ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
-  <img width="50%" margin-top="10px" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
+  <img width="100%" margin-top="10px" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
 </div>
