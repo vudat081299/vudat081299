@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 -	:bookmark: Certificate source
 > SL: https://www.sololearn.com/Certificate/1023-24649952/jpg
 
-<div height="220px" style="display: block;">
+<div height="220px" style="display:block;">
   <img align="left" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
   <img align="right" height="220px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </div>
