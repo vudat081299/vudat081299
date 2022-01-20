@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - :cyclone: Reach me: <a href="vudat081299@gmail.com" target="_blank">vudat081299@gmail.com</a>
 - :umbrella: More about me: <a href="https://github.com/vudat081299" target="_blank">https://github.com/vudat081299</a>
 -	**:bookmark: Certificate source**
-> SL: https://www.sololearn.com/Certificate/1023-24649952/jpg
-> SL: https://www.sololearn.com/certificates/course/en/24649952/1024/landscape/png
+> - SL: https://www.sololearn.com/Certificate/1023-24649952/jpg
+> - SL: https://www.sololearn.com/certificates/course/en/24649952/1024/landscape/png
 
 <div height="220px" style="display:block;">
   <img align="left" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
