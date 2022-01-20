@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <div style="display:block; margin:10px;">
   <!-- ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
 <!--   ![cert-24649952-1024](https://user-images.githubusercontent.com/55421234/150290176-1d025e2b-14cc-455a-b391-4a633dc92327.png) -->
-  <img width="45%" src="https://user-images.githubusercontent.com/55421234/150290176-1d025e2b-14cc-455a-b391-4a633dc92327.png">
-  <img width="45%" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
+  <img width="49%" src="https://user-images.githubusercontent.com/55421234/150290176-1d025e2b-14cc-455a-b391-4a633dc92327.png">
+  <img width="49%" src="https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg">
 </div>
 
