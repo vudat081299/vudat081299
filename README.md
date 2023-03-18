@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 > - SL: https://coursera.org/share/ce5f5ec9263ad501127e955f952c675f
 
 <div height="220px" style="display:block;">
+  <img align="right" height="220px" src="[https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true](https://user-images.githubusercontent.com/55421234/226083494-866e9677-99d0-47a8-aa46-b263fb539885.png)" alt="vudat081299"/>
   <img align="left" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vudat081299&layout=compact&hide=html&layout=compact" alt="vudat081299"/>
   <img align="right" height="220px" src="https://github-readme-stats.vercel.app/api?username=vudat081299&show_icons=true" alt="vudat081299"/>
 </div>
-![Coursera VRQFMS6X7JQB](https://user-images.githubusercontent.com/55421234/226083494-866e9677-99d0-47a8-aa46-b263fb539885.png)
 
 <div style="display:block;">
 <!--   ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
