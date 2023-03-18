@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!--   ![cert-1023-24649952](https://user-images.githubusercontent.com/55421234/149750560-6fe84e0a-57b0-464a-a2a8-7a149891da58.jpg) -->
 <!--   ![cert-24649952-1024](https://user-images.githubusercontent.com/55421234/150290176-1d025e2b-14cc-455a-b391-4a633dc92327.png) -->
   
-  <img width="49%" src="[https://www.sololearn.com/certificates/course/en/24649952/1024/landscape/png](https://user-images.githubusercontent.com/55421234/226083494-866e9677-99d0-47a8-aa46-b263fb539885.png)">
+  <img width="49%" src="https://user-images.githubusercontent.com/55421234/226083494-866e9677-99d0-47a8-aa46-b263fb539885.png">
 <!--   <img width="49%" src="https://www.sololearn.com/Certificate/1023-24649952/jpg"> -->
 </div>
 
